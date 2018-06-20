@@ -30,6 +30,7 @@ class BouncingBall(Ball):
     ball effected by gravity
     """
     # TODO: 
+    GRAVITY = 0.1
 
 # class RainbowBall(???):
 #     """
